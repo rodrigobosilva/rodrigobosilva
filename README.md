@@ -2,10 +2,11 @@
 
 📌 From Azores, Portugal
 
+:office: Working at IdeaStation | Full stack developer
+<!--
 📖Studying at ENTA | 
 Management of Networks and Computer Systems
-
-☁️Cloud Student and Plant Enthusiast 🌱
+-->
 
 <!--
 **rodrigobosilva/rodrigobosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
